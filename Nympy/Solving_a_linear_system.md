@@ -24,7 +24,7 @@ array([  2.22044605e-16,   5.00000000e-01])
 
 
 
-Insted we use a function given in numpy
+##### Insted we use a function given in numpy
 
 
 ```python
