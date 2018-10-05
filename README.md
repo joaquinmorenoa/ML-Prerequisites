@@ -31,4 +31,4 @@ Numpy-Pandas-Matplotlib-Scipy [Python]
   
 ## Note
   - Check 'Databases' repository for csv files.
-  - Jupyter Notebook for individual topic.
+  - Jupyter Notebook for every individual topic.
