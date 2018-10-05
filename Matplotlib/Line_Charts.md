@@ -30,7 +30,7 @@ plt.show()
 ```
 
 
-![](/Images/output_6_0.png)
+![](Images/output_6_0.png)
 
 
 We can add other inputs before the graph is actually shown.
@@ -48,7 +48,7 @@ plt.show()
 ```
 
 
-![](/Images/output_8_0.png)
+![](Images/output_8_0.png)
 
 
 
