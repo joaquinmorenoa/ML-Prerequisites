@@ -7,7 +7,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('Datasets/train.csv')
+df = pd.read_csv('https://www.kaggle.com/c/digit-recognizer/train.csv')
 
 ```
 
