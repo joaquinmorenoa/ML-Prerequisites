@@ -41,7 +41,7 @@ plt.show()
 ```
 
 
-![png](output_13_0.png)
+![png](Images/output_13_0.png)
 
 
 There is a way to draw the samples using numpy as well.
@@ -59,5 +59,5 @@ plt.show()
 ```
 
 
-![png](output_14_0.png)
+![png](Images/output_14_0.png)
 
