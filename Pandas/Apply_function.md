@@ -38,6 +38,7 @@ df['dt'] = df.apply(lambda row: datetime.strptime(row['Month'],"%Y-%m"), axis =1
 df.info()
 ```
 Output:
+
 <class 'pandas.core.frame.DataFrame'>
 
 RangeIndex: 144 entries, 0 to 143
