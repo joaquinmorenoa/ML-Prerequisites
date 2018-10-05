@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 
 ```python
-A = pd.read_csv('C:/Users/dubek/Downloads/New folder/data_1d.csv', header=None).as_matrix()
+A = pd.read_csv('Datasets/data_1d.csv', header=None).as_matrix()
 ```
 
 x-axis is the first column and y-axis is the second column.
