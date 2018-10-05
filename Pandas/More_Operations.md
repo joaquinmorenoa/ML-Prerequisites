@@ -6,7 +6,7 @@
 import pandas as pd
 import numpy as np
 
-X = pd.read_csv("C:/Users/dubek/Downloads/New folder/data_2d.csv", header=None)
+X = pd.read_csv("Datasets/data_2d.csv", header=None)
 ```
 
 We'll use the matrix function to access the rows and colomns easily.
