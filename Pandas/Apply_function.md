@@ -8,7 +8,7 @@ Suppose we want to derive a new column where each cell is derived from the value
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("C:/Users/dubek/Downloads/New folder/international-airline-passengers.csv", engine="python", skipfooter=3)
+df = pd.read_csv("Datasets/international-airline-passengers.csv", engine="python", skipfooter=3)
 df.columns = ["Month","Passengers"]
 df['ones'] = 1
 ```
