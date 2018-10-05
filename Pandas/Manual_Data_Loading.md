@@ -10,7 +10,7 @@ import numpy as np
 
 X = []
 
-for line in open("C:/Users/dubek/Downloads/New folder/data_2d.csv"):
+for line in open("Datasets/data_2d.csv"):
     row = line.split(',')
     sample = list(map(float, row))
     X.append(sample)
